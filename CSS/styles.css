@@ -1,0 +1,49 @@
+/*p{font-size:14px;
+	}
+	/*class selector*/
+	.tomato-paragraph{
+		color:tomato;
+	}
+	body
+	 {
+		background-image: url("../img/borabora.jpg"); background-size:cover;
+	}
+	h1{
+  font-family: 'Tangerine', serif;
+  font-size: 14px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+	/*id selector*/
+	#special-border{
+		border: 3px solid grey;
+		color: coral;
+	}
+
+	class selector
+	.aquamarine-paragraph{
+			color:aquamarine;
+	}
+
+	/*content section*/	
+	.content{
+		background-color:white;
+		height:500px;
+		width:950px;
+		margin:0 auto;
+	}	
+	.special-text{
+		color:fuchsia;
+	}
+
+	.content-table{
+		border:2px solid black;
+	}
+	/*desecendent selector*/
+	.content-table li{
+		margin-bottom:10px;
+
+	}
+	.content-table h3{
+		text-align:center;
+	}*/

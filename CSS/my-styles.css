@@ -1,0 +1,39 @@
+.content-table{
+	border:2px solid black;
+	width: 85px;
+	
+}
+	.content-table li{
+		margin-bottom:10px;
+
+	}
+.content{
+		background-color:azure;
+		margin:0 auto;
+	}	
+
+body{
+	background-color:white;
+}
+.navbar{
+	position: relative;
+	background-color: lightgrey;
+	height:150px;
+	width: 100%;
+}
+/*desendant selector*/
+.navbar div{
+	display:inline-block;
+
+}
+
+
+.css-selector
+{
+	font-family: 'Tangerine, serif';
+}
+ body {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
